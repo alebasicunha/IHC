@@ -11,6 +11,9 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
+/////////////////////////////////////////
+//teste
+////////////////////////////////////////
 public class Activity3 extends Activity {
 
     ListView lista3;

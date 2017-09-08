@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IHC</string>
+    <string name="tela6">Ligar/Desligar</string>
+    <string name="tela3">Tela3: oi</string>
+    <string name="tela4">Tela4: oi</string>
+    <string name="title_activity_5">Activity5</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="login">Entrar</string>
+
+    <string name="consumoEletrico">Consumo elétrico atual:</string>
+    <string name="consumoAgua">Consumo de água atual:</string>
+</resources>
